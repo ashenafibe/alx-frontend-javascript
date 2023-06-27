@@ -1,2 +1,1 @@
-# alx-frontend-javascript
-The first front end
+0x01. ES6 Promises
